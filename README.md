@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jai Kishan Sharma</h1>
-<h3 align="center">Professional developer with good knowledge of both frontend and backend.</h3>
+<h3 align="center">Full Stack Developer with expertise in building scalable and robust web applications using modern technologies</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/Bm7L.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jai570&label=Profile%20views&color=0e75b6&style=flat" alt="jai570" /> </p>
