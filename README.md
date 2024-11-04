@@ -14,7 +14,7 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jai-kishan-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jai-kishan-sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaikishansharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jai-kishan-sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
